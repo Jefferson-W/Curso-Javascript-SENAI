@@ -1,5 +1,5 @@
-let velocidade = 60
-let velocidadeMaxima = 30
+let velocidade = 70
+let velocidadeMaxima = 40
 console.log(`sua velocidade é ${velocidade}km/h`)
 if (velocidade>velocidadeMaxima) {
 console.log(`Você ultapassou o limite de velocidade! MULTADO`)
